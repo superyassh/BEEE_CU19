@@ -26,7 +26,8 @@ Experiments of BEEE Lab.
 
 ## Contributor 
 
-⦿ BEEE Site [BEEE CU](https://sites.google.com/view/cu-beee-lab)
+⦿ BEEE Site [BEEE-CU](https://sites.google.com/view/cu-beee-lab)
+
 ⦿ Coder [Yanshu](https://www.linkedin.com/in/superyassh)
 
 
