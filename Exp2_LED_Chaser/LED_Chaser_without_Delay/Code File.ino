@@ -5,7 +5,7 @@ void setup()
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
   pinMode(4, OUTPUT);
- // Initialize digital pin led_flash as an output.
+// Initialize digital pin led_flash as an output.
 }
 void loop()
 // the loop function runs over and over again forever.
