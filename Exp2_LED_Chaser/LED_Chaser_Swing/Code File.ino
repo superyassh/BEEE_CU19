@@ -1,5 +1,5 @@
 int pinsCount=4;                        // declaring the integer variable pinsCount
-int pins[] = {1,2,3,4};          // declaring the array pins[]
+int pins[] = {1,2,3,4};           // declaring the array pins[]
  
 void setup() {                
   for (int i=0; i<pinsCount; i=i+1){    // counting the variable i from 0 to 9
