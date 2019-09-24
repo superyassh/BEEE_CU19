@@ -23,7 +23,7 @@ void loop() // the loop function runs over and over again forever.
     {
      digitalWrite(1, HIGH); // Turn the LED on (HIGH is the voltage level)
      digitalWrite(3, HIGH); // Turn the LED on (HIGH is the voltage level)
-     delay(1000); // Making the delay
+     delay(1000);  // Making the delay
      digitalWrite(1, LOW); // Turn the LED OFF (OFF is the voltage level)
      digitalWrite(3, LOW); // Turn the LED OFF (OFF is the voltage level)
     }
