@@ -4,7 +4,7 @@
 # Files
 
 ### Code File
- ⦿ Code File contain the Source Code/Program of the [arduino Device](https://www.arduino.cc/) which run in [Arduino Software](https://www.arduino.cc/en/Main/Software)
+ ⦿ Code File contain the Source Code/Program of the [Arduino Device](https://www.arduino.cc/) which run in [Arduino Software](https://www.arduino.cc/en/Main/Software)
 
 #### Usage 
   ```
