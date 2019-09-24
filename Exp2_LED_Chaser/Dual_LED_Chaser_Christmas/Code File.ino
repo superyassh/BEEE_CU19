@@ -8,7 +8,7 @@ void loop()
 // the loop function runs over and over again forever.
 {
 for (int i = 10; i <14; i++) {
-allLEDsOff(); //Tunrs all LEDs OFF
+allLEDsOff();  //Tunrs all LEDs OFF
 if (i!=13){
 // Turn the LED on (HIGH is the voltage level)
 digitalWrite(i,HIGH); 
