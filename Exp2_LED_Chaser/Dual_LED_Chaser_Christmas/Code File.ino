@@ -25,7 +25,7 @@ allLEDsOff(); //Tunrs all LEDs OFF
 void allLEDsOff(void) //Tunrs all LEDs OFF
 {
 for (int i = 10; i <= 14; i++) {
-digitalWrite(i, LOW); // Turn the LED OFF (LOW is the voltage level)
+digitalWrite(i, LOW);  // Turn the LED OFF (LOW is the voltage level)
 }
 delay(100);
 }
