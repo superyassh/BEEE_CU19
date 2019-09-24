@@ -26,7 +26,7 @@ Experiments of BEEE Lab.
 
 ## Contributor 
 
-⦿ [Asst. Prof Anshul sharma](https://scholar.google.co.in/citations?user=s8UzcdIAAAAJ&hl)
+⦿ Asst. Prof [Anshul sharma](https://scholar.google.co.in/citations?user=s8UzcdIAAAAJ&hl)
 
 ⦿ [Yanshu Kishore](https://www.linkedin.com/in/superyassh)
 
