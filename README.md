@@ -1,4 +1,4 @@
-# BEEE Github Repository of [Chandigarh University](http://www.cuchd.in/)
+# BEEE Github Repository of [Chandigarh University](http://www.cuchd.in/).
 
 Experiments of BEEE Lab.
 
@@ -26,8 +26,10 @@ Experiments of BEEE Lab.
 
 ## Contributor 
 
-⦿ BEEE Site [BEEE-CU](https://sites.google.com/view/cu-beee-lab)
+⦿ [BEEE-CU](https://sites.google.com/view/cu-beee-lab)
 
-⦿ Coder [Yanshu](https://www.linkedin.com/in/superyassh)
+⦿ [Yanshu Kishore](https://www.linkedin.com/in/superyassh)
+
+⦿ [Asst. Prof Anshul sharma](https://scholar.google.co.in/citations?user=s8UzcdIAAAAJ&hl)
 
 
