@@ -13,7 +13,7 @@ void loop()
   for(int i=1;i<=4;i++)
   {
      digitalWrite(i,HIGH); // Turn the LED on (HIGH is the voltage level)
-  	 delay(500); // Making the delay 
+  	 delay(500);  // Making the delay 
   	 digitalWrite(i,LOW); // Turn the LED OFF (OFF is the voltage level)
   }
 }
