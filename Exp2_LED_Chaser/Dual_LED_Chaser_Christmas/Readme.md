@@ -16,5 +16,5 @@
  
 #### Usage 
   ```
-  Open circuit Diagram.png in any Photo Viewer Software.
+  Open Circuit Diagram.png in any Photo Viewer Software.
   ```
