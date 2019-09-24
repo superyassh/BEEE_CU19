@@ -1,5 +1,5 @@
 # Experiment 
-  Design a LED Chaser
+  Design a LED Chaser.
 
 # Files/Folders
 
@@ -13,10 +13,10 @@
  ⦿ Folder Contain the Code File and Circuit Diagram of LED Chaser Which is Swinging Backward and Forward.
  
 ### LED Chaser with Delay
- ⦿ Folder Contain the Code File and Circuit Diagram of LED Chaser with Delay
+ ⦿ Folder Contain the Code File and Circuit Diagram of LED Chaser with Delay.
  
 ### LED Chaser without Delay
- ⦿ Folder Contain the Code File and Circuit Diagram of LED Chaser without Delay
+ ⦿ Folder Contain the Code File and Circuit Diagram of LED Chaser without Delay.
  
 #### Usage 
   ```
