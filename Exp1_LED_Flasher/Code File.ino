@@ -9,8 +9,10 @@ void loop()
 {
 digitalWrite(led_flash, HIGH);
 // Turn the LED on (HIGH is the voltage level)
-delay(1000); // Making the delay 
+delay(1000); 
+// Making the delay 
 digitalWrite(led_flash, LOW);
 // Turn the LED off by making the voltage LOW
-delay(1000); // Making the delay 
+delay(1000); 
+// Making the delay 
 }
